@@ -85,3 +85,5 @@ if score > 1:
 #check_diagx(field)
 #check_diagy(field)
 visual(field)
+
+#testforcommit
